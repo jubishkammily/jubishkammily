@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jubishkammily
-- 👀 I’m interested in application development (Web, Desktp, Mobile) using Angualr ,Nodejs, C#, C++
+- 👀 I’m interested in application development (Web, Desktp, Mobile) using C# .Net Core, Nodejs, Angular , Javascript ... 
 - 🌱 I’m currently learning Azure, IOT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jubsih.kammily@gmail.com
